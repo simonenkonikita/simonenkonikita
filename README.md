@@ -13,10 +13,10 @@
 ### 🛠 Технологический стек
 | **Frontend**       | **Backend**          | **Инструменты**      |
 |---------------------|----------------------|----------------------|
-| React + TypeScript  | Node.js/Express (🌱) | Git/GitHub           |
-| JavaScript (ES6+)   | Nest.js (🌱)         | Vite/Webpack         |
+| React + TypeScript  | Node.js/Express      | Git/GitHub           |
+| JavaScript (ES6+)   |   MongoDB            | Vite/Webpack         |
 | CSS Modules/Tailwind| PostgreSQL (🌱)      | Jest/Cypress         |
-| SPA/PWA            | MongoDB (🌱)         | Figma                |
+| SPA/PWA            |    Nest.js (🌱)       | Figma                |
 
 ---
 
