@@ -27,6 +27,11 @@
 
 ---
 
+### 💻 Статистика Codewars
+[![My Codewars Stats](https://www.codewars.com/users/simonenkonikita/badges/large)](https://www.codewars.com/users/simonenkonikita)
+
+---
+
 ### 🏔️ Не только код
 - Проехал на авто - **от Якутии до Крыма (12 000 км)**! 
 - Люблю трекинг и сложные маршруты — **как в горах, так и в коде**!
