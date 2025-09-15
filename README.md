@@ -28,7 +28,7 @@
 ---
 
 ### 💻 Статистика Codewars
-[![My Codewars Stats](https://www.codewars.com/users/simonenkonikita/badges/large)](https://www.codewars.com/users/simonenkonikita)
+[![My Codewars Stats](https://www.codewars.com/users/SimonenkoNikita/badges/large)](https://www.codewars.com/users/simonenkonikita)
 
 ---
 
