@@ -12,7 +12,7 @@
 ---
 
 ### 👌 Предпочтительный стек технологий:
-- **React + TypeScript + Express + (MongoDB/PostgreSQL) + Vite/Webpack**
+- **React + TypeScript + Express + MongoDB/PostgreSQL + Vite/Webpack**
 
 ---
 
