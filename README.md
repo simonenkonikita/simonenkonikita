@@ -1,6 +1,6 @@
 # Привет, меня зовут Никита 👋
 
-**Frontend → на пути в Fullstack разработку ** 🚀 с экспертизой в FinTech 💳FinTech/🔑 PropTech 
+Frontend → на пути в Fullstack разработку 🚀 с экспертизой в FinTech 💳FinTech/🔑 PropTech 
 ---
 
 - **10 лет** в банковской сфере, недвижимости и страховании.
